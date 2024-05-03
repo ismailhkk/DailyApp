@@ -1,0 +1,14 @@
+D:\Works\Gunluk\bin\Debug\net8.0\Gunluk.exe
+D:\Works\Gunluk\bin\Debug\net8.0\Gunluk.deps.json
+D:\Works\Gunluk\bin\Debug\net8.0\Gunluk.runtimeconfig.json
+D:\Works\Gunluk\bin\Debug\net8.0\Gunluk.dll
+D:\Works\Gunluk\bin\Debug\net8.0\Gunluk.pdb
+D:\Works\Gunluk\obj\Debug\net8.0\Gunluk.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\Gunluk\obj\Debug\net8.0\Gunluk.AssemblyInfoInputs.cache
+D:\Works\Gunluk\obj\Debug\net8.0\Gunluk.AssemblyInfo.cs
+D:\Works\Gunluk\obj\Debug\net8.0\Gunluk.csproj.CoreCompileInputs.cache
+D:\Works\Gunluk\obj\Debug\net8.0\Gunluk.dll
+D:\Works\Gunluk\obj\Debug\net8.0\refint\Gunluk.dll
+D:\Works\Gunluk\obj\Debug\net8.0\Gunluk.pdb
+D:\Works\Gunluk\obj\Debug\net8.0\Gunluk.genruntimeconfig.cache
+D:\Works\Gunluk\obj\Debug\net8.0\ref\Gunluk.dll
